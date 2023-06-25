@@ -4,6 +4,7 @@ import string
 import os
 import speech_recognition as sr
 from pydub import AudioSegment
+#Author Berkah@code:~
 
 def generate_random_filename(length=10):
     letters = string.ascii_lowercase
